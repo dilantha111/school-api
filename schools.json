@@ -1,0 +1,34 @@
+[
+    {
+        "schoolName": "Richmond College",
+        "numberOfStudents": 8000,
+        "street": "1st cross street",
+        "suburb": "Galle",
+        "postCode": 80000,
+        "state": "Southern"
+    },
+    {
+        "schoolName": "Mahinda College",
+        "numberOfStudents": 6000,
+        "street": "Elliot Road",
+        "suburb": "Galle",
+        "postCode": 80000,
+        "state": "Southern"
+    },
+    {
+        "schoolName": "Southland College",
+        "numberOfStudents": 5000,
+        "street": "Old Dutch Fort Road",
+        "suburb": "Galle",
+        "postCode": 80000,
+        "state": "Southern"
+    },
+    {
+        "schoolName": "Rippon Girls School",
+        "numberOfStudents": 3000,
+        "street": "1st cross street",
+        "suburb": "Galle",
+        "postCode": 80000,
+        "state": "Southern"
+    }
+]
